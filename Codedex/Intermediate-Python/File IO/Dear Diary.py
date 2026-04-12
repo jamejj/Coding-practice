@@ -1,0 +1,5 @@
+file = open('diaries.txt','w')
+file.write('Secret1\n')
+file.write('Secret2\n')
+file.write('Secret3')
+file.close()
