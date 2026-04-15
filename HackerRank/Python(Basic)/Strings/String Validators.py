@@ -23,14 +23,8 @@ if __name__ == '__main__':
         if s[i].isupper():
             isUpper = True
 
-
-
     print(isAlphaNumeric)
     print(isAlpha)
     print(isDigit)
     print(isLower)
     print(isUpper)
-
-
-
-
